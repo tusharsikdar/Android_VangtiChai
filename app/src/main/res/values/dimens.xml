@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btnHeight">68dp</dimen>
+    <dimen name="btnMarginEnd">14dp</dimen>
+    <dimen name="btnMarginBottom">8dp</dimen>
+    <dimen name="lastBtnMarginBottom">38dp</dimen>
+    <dimen name="parent">0dp</dimen>
+    <dimen name="txtSize">20sp</dimen>
+    <dimen name="txtViewMarginLeft">16dp</dimen>
+    <dimen name="centerTxtLeftMargin">152dp</dimen>
+    <dimen name="centerTextTopMargin">48dp</dimen>
+    <dimen name="txtTopMargin">32dp</dimen>
+    <dimen name="firstTxtMarginTop">104dp</dimen>
+    <dimen name="marginTopRowBtn">123dp</dimen>
+    <dimen name="landMarginRight">8dp</dimen>
+    <dimen name="landMarginTop">28dp</dimen>
+    <dimen name="landValLeftMargin">279dp</dimen>
+</resources>
